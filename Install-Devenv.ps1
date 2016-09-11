@@ -1,4 +1,4 @@
 Import-Module Boxstarter.Chocolatey
 
-New-PackageFromScript -Source roles\Devenv.ps1 -PackageName Geotrac.Devenv
-Install-BoxstarterPackage -Package Geotrac.Devenv
+New-PackageFromScript -Source roles\Devenv.ps1 -PackageName BeardedDeveloper.Devenv
+Install-BoxstarterPackage -Package BeardedDeveloper.Devenv
