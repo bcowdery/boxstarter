@@ -13,13 +13,13 @@
 ## Getting Started
 ### Web Installer
 
-Invoke the Boxstarter WebLauncher by browsing to the URL below in Internet Explorer or by invoking it as a START command in either the CMD prompt or PowerShell:
+Invoke the Boxstarter WebLauncher by pasting to the URL below in Internet Explorer or by invoking it as a START command in either the Command prompt or PowerShell:
 
 ```
 START http://boxstarter.org/package/nr/url?https://github?https://raw.githubusercontent.com/geotracsystems/boxstarter/master/roles/Devenv.ps1
 ```
 
-*You can use any browser that supports "Click Once" applications. This is limited to IE unless you add extensions to [Chrome](https://chrome.google.com/webstore/detail/clickonce-for-google-chro/kekahkplibinaibelipdcikofmedafmb) and [Firefox](https://addons.mozilla.org/en-us/firefox/addon/fxclickonce/). You can also use the Command Line or a Powershell console, both using the same command as long as IE is your default browser. This is rarely an issue as IE is the most common default on new machines anyways.*
+*You can use any browser that supports "Click Once" applications. This is limited to IE unless you add extensions to [Chrome](https://chrome.google.com/webstore/detail/clickonce-for-google-chro/kekahkplibinaibelipdcikofmedafmb) and [Firefox](https://addons.mozilla.org/en-us/firefox/addon/fxclickonce/). You can also use the Command prompt or a Powershell console, both using the same command as long as IE is your default browser. This is rarely an issue as IE is the most common default on new machines anyways.*
 
 
 ### Command Line
