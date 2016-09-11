@@ -19,7 +19,7 @@ Invoke the Boxstarter WebLauncher by browsing to the URL below in Internet Explo
 START http://boxstarter.org/package/nr/url?https://github?https://raw.githubusercontent.com/geotracsystems/boxstarter/master/roles/Devenv.ps1
 ```
 
-*You can use any browser that supports "Click Once" applications. This is limited to IE unless you add extensions to (Chrome)[https://chrome.google.com/webstore/detail/clickonce-for-google-chro/eeifaoomkminpbeebjdmdojbhmagnncl?hl=en] and (Firefox)[https://addons.mozilla.org/en-us/firefox/addon/microsoft-net-framework-assist/]. You can also use either the Command Line or a Powershell console, both using the same command as long as IE is your default browser.*
+*You can use any browser that supports "Click Once" applications. This is limited to IE unless you add extensions to [Chrome](https://chrome.google.com/webstore/detail/clickonce-for-google-chro/kekahkplibinaibelipdcikofmedafmb) and [Firefox](https://addons.mozilla.org/en-us/firefox/addon/fxclickonce/). You can also use the Command Line or a Powershell console, both using the same command as long as IE is your default browser. This is rarely an issue as IE is the most common default on new machines anyways.*
 
 
 ### Command Line
