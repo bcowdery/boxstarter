@@ -39,7 +39,7 @@ if (Test-PendingReboot) { Invoke-Reboot }
 # Java & IntelliJ IDEA
 cinst jdk8
 cinst sbt
-cinst intellijidea-ultimate -version 15.0
+cinst intellijidea-ultimate -version 14.1
 
 # Dev tools
 cinst git
