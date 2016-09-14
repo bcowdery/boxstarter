@@ -28,7 +28,7 @@ if (Test-PendingReboot) { Invoke-Reboot }
 
 # VS 2015 extensions
 cinst webessentials2015
-cinst resharper -version 2016.2.0.0
+cinst resharper -version 2016.1.1
 if (Test-PendingReboot) { Invoke-Reboot }
 
 # MS SQL Server
